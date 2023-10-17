@@ -20,4 +20,5 @@ int main()
     else if (a==0 && b==0)
         printf ("il y a une infinite de solution pour x");
    return 0 ;
+   
 }
